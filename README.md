@@ -1,6 +1,6 @@
 # Estado Lógico
 
-*Proposta e implementação de uma Estado Moderno que faça sentido.*
+*Proposta e implementação de uma Estado Moderno baseado em lógica.*
 
 
 ## Proposta
