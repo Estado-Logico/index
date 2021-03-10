@@ -26,22 +26,22 @@ A propriedade deve ser o mais próximo possível da sustentabilidade, com pelo m
 Ver mais [aqui](https://github.com/Estado-Logico/chacara-offgrid).
 
 
-### 2. [Ecoburgo](https://github.com/Estado-Logico/ecoburgo)
+### 2. Ecoburgo
 
 *Estender o conceito do estágio 1 para uma comunidade sustentável, mas sem o papo bicho grilo comum às ecovilas. Deve ser cercada (pelo menos cerca de arame com concertina). É a menor divisão administrativa/política.*
 
 
-### 3. [Distrito Autônomo](https://github.com/Estado-Logico/distrito-autonomo)
+### 3. Distrito Autônomo
 
 *Distrito formado por vários ecoburgos, funcionando como uma unidade com autonomia política.*
 
 
-### 4. [Aliança Distrital](https://github.com/Estado-Logico/alianca-distrital)
+### 4. Aliança Distrital
 
 *Formar uma aliança entre vários distritos autônomos (estágio 3) para fins de obter força política e representatividade internacional.*
 
 
-### 5. [Confederação](https://github.com/Estado-Logico/confederacao)
+### 5. Confederação
 
 *Evoluir a aliança do estágio 4 para uma confederação, com representação distrital junto a um governo (parlamentarista?) centralizado (mas bem reduzido e pouco atuante, mantendo a autonomia dos distritos).*
 
